@@ -9,17 +9,6 @@ body {
     color: #393939;
 }
 
-hr {
-    border: none;
-    height: 1px;
-    color: #918F8F;
-    background-color: #918F8F;
-}
-
-.text_muted {
-    color: #808080;
-}
-
 .title_super {
     font-size: 50px;
 }
